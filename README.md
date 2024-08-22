@@ -1,7 +1,3 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
 Oi, eu sou o Fábio, mas até minha mãe me chama de Ferrugem.
 Sou incansavelmente apaixonado por design e UX/UI, e busco sempre os melhores modos de apresentar o resultado mais adequado a cada projeto.
 Quando notei que alguns desses projetos eram adaptados no processo de programação, desafiei-me a programar e entregar o "pacote completo" e já ajustado.
@@ -43,6 +39,6 @@ Mal posso esperar para o próximo desafio!
 <a href="https://twitter.com/rugemtugem">
   <img align="right" alt="RUGEMTUGEM | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/rugemtugem">
+<a href="https://linkedin.com/in/rugemtugem">
   <img align="right" alt="RUGEMTUGEM | Linkedin" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
 </a>
