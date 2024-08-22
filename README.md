@@ -26,12 +26,12 @@ Mal posso esperar para o próximo desafio!
 #### Top Repositories
 
 
-<a href="https://github.com/rugemtugem/github-readme-stats">
+<!--<a href="https://github.com/rugemtugem/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rugemtugem&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/rugemtugem/rugemtugem.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rugemtugem&repo=rugemtugem.github.io&theme=buefy" />
-</a>
+</a>-->
 
 <br />
 <br />
