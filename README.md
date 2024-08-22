@@ -6,15 +6,15 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rugemtugem&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rugemtugem&show_icons=true&theme=dark)](httpsgithub.comrugemtugemgithub-readme-stats)
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=rugemtugem&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=rugemtugem&repo=variavel&theme=dark)](httpsgithub.comrugemtugemgithub-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=rugemtugem&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=rugemtugem&layout=compact)](httpsgithub.comrugemtugemgithub-readme-stats)
 
 
 ### Contatos
