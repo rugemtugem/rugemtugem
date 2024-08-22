@@ -40,5 +40,5 @@ Mal posso esperar para o próximo desafio!
   <img align="right" alt="RUGEMTUGEM | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/rugemtugem">
-  <img align="right" alt="RUGEMTUGEM | Linkedin" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+  <img align="right" alt="RUGEMTUGEM | Linkedin" width="20px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 </a>
