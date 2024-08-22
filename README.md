@@ -30,7 +30,7 @@ Mal posso esperar para o próximo desafio!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rugemtugem&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/rugemtugem/rugemtugem.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=rugemtugem.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rugemtugem&repo=rugemtugem.github.io&theme=buefy" />
 </a>
 
 <br />
