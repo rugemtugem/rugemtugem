@@ -1,0 +1,19 @@
+{
+  "name": "bling-suri-webhook",
+  "version": "1.0.0",
+  "description": "Netlify Function to handle Bling webhooks and upsert products to Suri",
+  "main": "netlify/functions/webhook-bling-to-suri.js",
+  "scripts": {
+    "start": "netlify dev",
+    "test": "node test/test-webhook.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
