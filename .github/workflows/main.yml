@@ -1,0 +1,38 @@
+name: Purge Camo Cache
+
+on:
+  # Executar quando houver push na branch main
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  
+  # Executar em pull requests
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  
+  # Executar automaticamente a cada 6 horas
+  schedule:
+    - cron: '0 */6 * * *'  # A cada 6 horas
+  
+  # Permitir execução manual
+  workflow_dispatch:
+
+jobs:
+  purge-cache:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Purge GitHub Camo Cache
+        uses: kevincobain2000/action-camo-purge@v1
+        continue-on-error: true
+        
+      - name: Cache Purged
+        run: echo "✅ Cache do GitHub Camo foi limpo com sucesso!"
