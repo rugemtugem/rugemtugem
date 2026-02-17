@@ -124,25 +124,35 @@ Profissional de tecnologia com **sólida experiência em desenvolvimento front-e
 
 ## 📊 GitHub Analytics
 
-> 💡 **Nota:** As imagens são atualizadas automaticamente a cada 6 horas via GitHub Action
-
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rugemtugem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&cache_seconds=1800" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rugemtugem&theme=tokyonight" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugemtugem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=38bdae&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rugemtugem&theme=tokyonight" alt="Top Languages by Repo" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rugemtugem&theme=tokyonight" alt="Top Languages by Commit" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rugemtugem&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rugemtugem&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=70a5fd&fire=bf91f3&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=70a5fd" alt="GitHub Streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rugemtugem&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
